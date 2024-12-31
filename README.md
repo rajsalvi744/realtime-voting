@@ -34,8 +34,8 @@ This project demonstrates the power of real-time data streaming and analytics by
 ## 🔧 How to Run  
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/real-time-election-voting-system.git  
-   cd real-time-election-voting-system  
+   git clone https://github.com/rajsalvi744/realtime-voting.git
+   cd realtime-voting 
 2. Set Up Docker:
    Ensure Docker is installed on your machine, then start the containers:
    ```bash
